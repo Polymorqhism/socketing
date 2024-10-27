@@ -1,4 +1,4 @@
-## ❗❗ made while learning C++, use this code with a grain of salt ❗❗
+# ❗❗ made while learning C++, use this code with a grain of salt ❗❗
 
 compile server.cpp and client.cpp separately
 
